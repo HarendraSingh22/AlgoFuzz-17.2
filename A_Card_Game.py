@@ -1,8 +1,8 @@
 #Harendra Singh
 
-t=input()
+t=int(input())
 while(t>0):
-    n=input()
+    n=int(input())
     r=range(1,n+1)
     x=len(r)
     while(x!=1):
@@ -12,6 +12,6 @@ while(t>0):
         r=k
         x=len(r)
     t=t-1
-    print(r)
+    print(r[0])
 
 
