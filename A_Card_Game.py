@@ -1,6 +1,6 @@
 #Harendra Singh
 
-t=int(input())
+t=input()
 while(t>0):
     n=int(input())
     r=range(1,n+1)
