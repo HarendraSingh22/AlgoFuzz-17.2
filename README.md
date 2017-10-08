@@ -2,7 +2,6 @@
 For a College Contest hosted on HackerRank 
 
 Problem 1 : A Card Game
-(https://hackerrank-challenge-pdfs.s3.amazonaws.com/47746-a-card-game-1-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1506366343&Signature=C2xi6pVJ%2B5JTJb2HuFUl4CVKa%2BM%3D&response-content-disposition=inline%3B%20filename%3Da-card-game-1-English.pdf&response-content-type=application%2Fpdf)
 
 
 A Card Game
